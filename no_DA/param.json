@@ -1,0 +1,29 @@
+{
+	"general":{
+		"seed": 1
+	},
+	"data":{
+		"path": "/../data/",
+		"sim_sim_src_x_file": "SimSim_SOURCE_X_Illustris2_pristine.npy",
+		"sim_sim_src_y_file": "SimSim_SOURCE_y_Illustris2_pristine.npy",
+		"sim_sim_tar_x_file": "SimSim_TARGET_X_Illustris2_noisy.npy",
+		"sim_sim_tar_y_file": "SimSim_TARGET_y_Illustris2_noisy.npy",
+		"sim_real_src_x_file": "SimReal_SOURCE_X_Illustris0.npy",
+		"sim_real_src_y_file": "SimReal_SOURCE_y_Illustris0.npy",
+		"sim_real_tar_x_file": "SimReal_TARGET_X_postmergers_SDSS.npy",
+		"sim_real_tar_y_file": "SimReal_TARGET_y_postmergers_SDSS.npy",
+		"n_test_data": 3000,
+		"num_classes": 2,
+		"batch_size":128,
+		"test_batch_size":3000,
+		"use_real_dataset": false,
+		"train_on_target": false,
+		"do_transfer_model": false,
+		"transfer_model": "G:/repo/PHYS449GroupProject/Adversarial/results_6/DeepMerge_net.pt"
+	},
+	"exec":{
+		"num_epochs": 30,
+		"display_epochs": 1,
+		"use_scheduler": true
+	}
+}

@@ -1,0 +1,76 @@
+Training mode: Adversarial + fisher + EM
+Training model...
+Epoch [1/200]	Time: 42.24 seconds	Total Loss: 1.713	Classifier Loss: 0.679	Transfer Loss: 0.99775	Fisher Loss: 0.035	EM Loss: 0.000	Source Domain Accuracy: 59.96%    Target Domain Accuracy: 57.42%
+Epoch [2/200]	Time: 12.92 seconds	Total Loss: 1.253	Classifier Loss: 0.663	Transfer Loss: 0.55398	Fisher Loss: 0.036	EM Loss: 0.000	Source Domain Accuracy: 62.63%    Target Domain Accuracy: 61.98%
+Epoch [3/200]	Time: 13.92 seconds	Total Loss: 1.271	Classifier Loss: 0.651	Transfer Loss: 0.58338	Fisher Loss: 0.036	EM Loss: 0.000	Source Domain Accuracy: 63.74%    Target Domain Accuracy: 64.39%
+Epoch [4/200]	Time: 13.91 seconds	Total Loss: 1.265	Classifier Loss: 0.639	Transfer Loss: 0.58911	Fisher Loss: 0.037	EM Loss: 0.000	Source Domain Accuracy: 64.91%    Target Domain Accuracy: 65.04%
+Epoch [5/200]	Time: 12.87 seconds	Total Loss: 1.284	Classifier Loss: 0.624	Transfer Loss: 0.62443	Fisher Loss: 0.036	EM Loss: 0.000	Source Domain Accuracy: 66.73%    Target Domain Accuracy: 65.49%
+Epoch [6/200]	Time: 13.89 seconds	Total Loss: 1.288	Classifier Loss: 0.614	Transfer Loss: 0.63787	Fisher Loss: 0.036	EM Loss: 0.000	Source Domain Accuracy: 66.60%    Target Domain Accuracy: 65.95%
+Epoch [7/200]	Time: 12.84 seconds	Total Loss: 1.285	Classifier Loss: 0.603	Transfer Loss: 0.64667	Fisher Loss: 0.036	EM Loss: 0.000	Source Domain Accuracy: 67.38%    Target Domain Accuracy: 67.90%
+Epoch [8/200]	Time: 13.87 seconds	Total Loss: 1.279	Classifier Loss: 0.594	Transfer Loss: 0.64900	Fisher Loss: 0.036	EM Loss: 0.000	Source Domain Accuracy: 66.86%    Target Domain Accuracy: 66.93%
+Epoch [9/200]	Time: 13.88 seconds	Total Loss: 1.266	Classifier Loss: 0.585	Transfer Loss: 0.64596	Fisher Loss: 0.036	EM Loss: 0.000	Source Domain Accuracy: 68.42%    Target Domain Accuracy: 68.68%
+Epoch [10/200]	Time: 12.86 seconds	Total Loss: 1.252	Classifier Loss: 0.576	Transfer Loss: 0.64032	Fisher Loss: 0.036	EM Loss: 0.000	Source Domain Accuracy: 68.55%    Target Domain Accuracy: 67.97%
+Epoch [11/200]	Time: 13.91 seconds	Total Loss: 1.254	Classifier Loss: 0.565	Transfer Loss: 0.65358	Fisher Loss: 0.035	EM Loss: 0.000	Source Domain Accuracy: 70.70%    Target Domain Accuracy: 70.05%
+Epoch [12/200]	Time: 14.02 seconds	Total Loss: 1.252	Classifier Loss: 0.556	Transfer Loss: 0.66086	Fisher Loss: 0.035	EM Loss: 0.000	Source Domain Accuracy: 70.83%    Target Domain Accuracy: 69.73%
+Epoch [13/200]	Time: 13.11 seconds	Total Loss: 1.234	Classifier Loss: 0.541	Transfer Loss: 0.65839	Fisher Loss: 0.035	EM Loss: 0.000	Source Domain Accuracy: 72.59%    Target Domain Accuracy: 72.79%
+Epoch [14/200]	Time: 14.01 seconds	Total Loss: 1.238	Classifier Loss: 0.533	Transfer Loss: 0.67000	Fisher Loss: 0.035	EM Loss: 0.000	Source Domain Accuracy: 72.40%    Target Domain Accuracy: 71.61%
+Epoch [15/200]	Time: 14.01 seconds	Total Loss: 1.235	Classifier Loss: 0.517	Transfer Loss: 0.68270	Fisher Loss: 0.035	EM Loss: 0.000	Source Domain Accuracy: 73.50%    Target Domain Accuracy: 72.66%
+Epoch [16/200]	Time: 12.97 seconds	Total Loss: 1.217	Classifier Loss: 0.507	Transfer Loss: 0.67468	Fisher Loss: 0.035	EM Loss: 0.000	Source Domain Accuracy: 75.13%    Target Domain Accuracy: 73.63%
+Epoch [17/200]	Time: 14.02 seconds	Total Loss: 1.209	Classifier Loss: 0.504	Transfer Loss: 0.67042	Fisher Loss: 0.035	EM Loss: 0.000	Source Domain Accuracy: 74.41%    Target Domain Accuracy: 73.18%
+Epoch [18/200]	Time: 13.98 seconds	Total Loss: 1.200	Classifier Loss: 0.495	Transfer Loss: 0.67028	Fisher Loss: 0.035	EM Loss: 0.000	Source Domain Accuracy: 74.74%    Target Domain Accuracy: 73.44%
+Epoch [19/200]	Time: 12.91 seconds	Total Loss: 1.187	Classifier Loss: 0.485	Transfer Loss: 0.66756	Fisher Loss: 0.034	EM Loss: 0.000	Source Domain Accuracy: 74.87%    Target Domain Accuracy: 74.09%
+Epoch [20/200]	Time: 13.96 seconds	Total Loss: 1.190	Classifier Loss: 0.479	Transfer Loss: 0.67661	Fisher Loss: 0.034	EM Loss: 0.000	Source Domain Accuracy: 71.55%    Target Domain Accuracy: 71.35%
+Epoch [21/200]	Time: 13.90 seconds	Total Loss: 1.189	Classifier Loss: 0.471	Transfer Loss: 0.68388	Fisher Loss: 0.034	EM Loss: 0.000	Source Domain Accuracy: 75.59%    Target Domain Accuracy: 73.63%
+Epoch [22/200]	Time: 12.94 seconds	Total Loss: 1.187	Classifier Loss: 0.472	Transfer Loss: 0.68138	Fisher Loss: 0.034	EM Loss: 0.000	Source Domain Accuracy: 73.70%    Target Domain Accuracy: 72.33%
+Epoch [23/200]	Time: 13.96 seconds	Total Loss: 1.177	Classifier Loss: 0.465	Transfer Loss: 0.67728	Fisher Loss: 0.034	EM Loss: 0.000	Source Domain Accuracy: 74.61%    Target Domain Accuracy: 72.79%
+Epoch [24/200]	Time: 13.99 seconds	Total Loss: 1.177	Classifier Loss: 0.462	Transfer Loss: 0.68155	Fisher Loss: 0.034	EM Loss: 0.000	Source Domain Accuracy: 76.04%    Target Domain Accuracy: 74.35%
+Epoch [25/200]	Time: 12.88 seconds	Total Loss: 1.164	Classifier Loss: 0.451	Transfer Loss: 0.67961	Fisher Loss: 0.034	EM Loss: 0.000	Source Domain Accuracy: 75.78%    Target Domain Accuracy: 73.37%
+Epoch [26/200]	Time: 13.98 seconds	Total Loss: 1.165	Classifier Loss: 0.451	Transfer Loss: 0.67939	Fisher Loss: 0.034	EM Loss: 0.000	Source Domain Accuracy: 72.27%    Target Domain Accuracy: 72.40%
+Epoch [27/200]	Time: 14.00 seconds	Total Loss: 1.162	Classifier Loss: 0.448	Transfer Loss: 0.68047	Fisher Loss: 0.034	EM Loss: 0.000	Source Domain Accuracy: 75.52%    Target Domain Accuracy: 72.46%
+Epoch [28/200]	Time: 12.91 seconds	Total Loss: 1.164	Classifier Loss: 0.451	Transfer Loss: 0.67933	Fisher Loss: 0.034	EM Loss: 0.000	Source Domain Accuracy: 75.46%    Target Domain Accuracy: 74.22%
+Epoch [29/200]	Time: 13.95 seconds	Total Loss: 1.152	Classifier Loss: 0.439	Transfer Loss: 0.67881	Fisher Loss: 0.034	EM Loss: 0.000	Source Domain Accuracy: 76.30%    Target Domain Accuracy: 73.57%
+Epoch [30/200]	Time: 12.84 seconds	Total Loss: 1.147	Classifier Loss: 0.435	Transfer Loss: 0.67849	Fisher Loss: 0.034	EM Loss: 0.000	Source Domain Accuracy: 76.37%    Target Domain Accuracy: 74.35%
+Epoch [31/200]	Time: 13.92 seconds	Total Loss: 1.146	Classifier Loss: 0.438	Transfer Loss: 0.67320	Fisher Loss: 0.034	EM Loss: 0.000	Source Domain Accuracy: 76.69%    Target Domain Accuracy: 74.74%
+Epoch [32/200]	Time: 13.86 seconds	Total Loss: 1.145	Classifier Loss: 0.433	Transfer Loss: 0.67887	Fisher Loss: 0.034	EM Loss: 0.000	Source Domain Accuracy: 76.17%    Target Domain Accuracy: 74.74%
+Epoch [33/200]	Time: 12.88 seconds	Total Loss: 1.144	Classifier Loss: 0.432	Transfer Loss: 0.67828	Fisher Loss: 0.034	EM Loss: 0.000	Source Domain Accuracy: 74.61%    Target Domain Accuracy: 72.98%
+Epoch [34/200]	Time: 13.91 seconds	Total Loss: 1.142	Classifier Loss: 0.430	Transfer Loss: 0.67865	Fisher Loss: 0.034	EM Loss: 0.000	Source Domain Accuracy: 77.21%    Target Domain Accuracy: 74.80%
+Epoch [35/200]	Time: 13.87 seconds	Total Loss: 1.148	Classifier Loss: 0.430	Transfer Loss: 0.68429	Fisher Loss: 0.034	EM Loss: 0.000	Source Domain Accuracy: 76.82%    Target Domain Accuracy: 74.74%
+Epoch [36/200]	Time: 12.87 seconds	Total Loss: 1.136	Classifier Loss: 0.421	Transfer Loss: 0.68154	Fisher Loss: 0.034	EM Loss: 0.000	Source Domain Accuracy: 75.13%    Target Domain Accuracy: 72.40%
+Epoch [37/200]	Time: 13.87 seconds	Total Loss: 1.135	Classifier Loss: 0.419	Transfer Loss: 0.68313	Fisher Loss: 0.033	EM Loss: 0.000	Source Domain Accuracy: 76.76%    Target Domain Accuracy: 73.89%
+Epoch [38/200]	Time: 13.87 seconds	Total Loss: 1.135	Classifier Loss: 0.418	Transfer Loss: 0.68331	Fisher Loss: 0.034	EM Loss: 0.000	Source Domain Accuracy: 75.33%    Target Domain Accuracy: 74.48%
+Epoch [39/200]	Time: 12.85 seconds	Total Loss: 1.131	Classifier Loss: 0.417	Transfer Loss: 0.68058	Fisher Loss: 0.033	EM Loss: 0.000	Source Domain Accuracy: 76.69%    Target Domain Accuracy: 74.09%
+Epoch [40/200]	Time: 13.89 seconds	Total Loss: 1.135	Classifier Loss: 0.419	Transfer Loss: 0.68210	Fisher Loss: 0.033	EM Loss: 0.000	Source Domain Accuracy: 77.15%    Target Domain Accuracy: 74.28%
+Epoch [41/200]	Time: 12.89 seconds	Total Loss: 1.132	Classifier Loss: 0.414	Transfer Loss: 0.68470	Fisher Loss: 0.033	EM Loss: 0.000	Source Domain Accuracy: 76.69%    Target Domain Accuracy: 73.63%
+Epoch [42/200]	Time: 13.97 seconds	Total Loss: 1.121	Classifier Loss: 0.408	Transfer Loss: 0.68012	Fisher Loss: 0.033	EM Loss: 0.000	Source Domain Accuracy: 76.63%    Target Domain Accuracy: 74.35%
+Epoch [43/200]	Time: 13.94 seconds	Total Loss: 1.119	Classifier Loss: 0.407	Transfer Loss: 0.67900	Fisher Loss: 0.033	EM Loss: 0.000	Source Domain Accuracy: 76.89%    Target Domain Accuracy: 74.28%
+Epoch [44/200]	Time: 12.83 seconds	Total Loss: 1.120	Classifier Loss: 0.404	Transfer Loss: 0.68342	Fisher Loss: 0.033	EM Loss: 0.000	Source Domain Accuracy: 75.26%    Target Domain Accuracy: 73.89%
+Epoch [45/200]	Time: 13.86 seconds	Total Loss: 1.119	Classifier Loss: 0.406	Transfer Loss: 0.67940	Fisher Loss: 0.033	EM Loss: 0.000	Source Domain Accuracy: 76.63%    Target Domain Accuracy: 74.28%
+Epoch [46/200]	Time: 12.87 seconds	Total Loss: 1.114	Classifier Loss: 0.400	Transfer Loss: 0.68024	Fisher Loss: 0.033	EM Loss: 0.000	Source Domain Accuracy: 77.02%    Target Domain Accuracy: 75.33%
+Epoch [47/200]	Time: 13.89 seconds	Total Loss: 1.111	Classifier Loss: 0.400	Transfer Loss: 0.67825	Fisher Loss: 0.033	EM Loss: 0.000	Source Domain Accuracy: 77.34%    Target Domain Accuracy: 74.61%
+Epoch [48/200]	Time: 13.87 seconds	Total Loss: 1.111	Classifier Loss: 0.396	Transfer Loss: 0.68244	Fisher Loss: 0.033	EM Loss: 0.000	Source Domain Accuracy: 76.63%    Target Domain Accuracy: 74.87%
+Epoch [49/200]	Time: 12.85 seconds	Total Loss: 1.117	Classifier Loss: 0.398	Transfer Loss: 0.68593	Fisher Loss: 0.033	EM Loss: 0.000	Source Domain Accuracy: 76.24%    Target Domain Accuracy: 73.70%
+Epoch [50/200]	Time: 13.87 seconds	Total Loss: 1.110	Classifier Loss: 0.398	Transfer Loss: 0.67940	Fisher Loss: 0.033	EM Loss: 0.000	Source Domain Accuracy: 77.02%    Target Domain Accuracy: 74.80%
+Epoch [51/200]	Time: 12.84 seconds	Total Loss: 1.108	Classifier Loss: 0.394	Transfer Loss: 0.68083	Fisher Loss: 0.033	EM Loss: 0.000	Source Domain Accuracy: 77.21%    Target Domain Accuracy: 74.48%
+Epoch [52/200]	Time: 13.88 seconds	Total Loss: 1.103	Classifier Loss: 0.385	Transfer Loss: 0.68537	Fisher Loss: 0.033	EM Loss: 0.000	Source Domain Accuracy: 73.50%    Target Domain Accuracy: 71.03%
+Epoch [53/200]	Time: 13.88 seconds	Total Loss: 1.107	Classifier Loss: 0.389	Transfer Loss: 0.68459	Fisher Loss: 0.033	EM Loss: 0.000	Source Domain Accuracy: 76.76%    Target Domain Accuracy: 74.54%
+Epoch [54/200]	Time: 12.83 seconds	Total Loss: 1.100	Classifier Loss: 0.385	Transfer Loss: 0.68267	Fisher Loss: 0.033	EM Loss: 0.000	Source Domain Accuracy: 74.09%    Target Domain Accuracy: 73.37%
+Epoch [55/200]	Time: 13.87 seconds	Total Loss: 1.108	Classifier Loss: 0.396	Transfer Loss: 0.67849	Fisher Loss: 0.033	EM Loss: 0.000	Source Domain Accuracy: 76.30%    Target Domain Accuracy: 74.41%
+Epoch [56/200]	Time: 12.85 seconds	Total Loss: 1.095	Classifier Loss: 0.381	Transfer Loss: 0.68035	Fisher Loss: 0.033	EM Loss: 0.000	Source Domain Accuracy: 77.28%    Target Domain Accuracy: 75.00%
+Epoch [57/200]	Time: 13.90 seconds	Total Loss: 1.105	Classifier Loss: 0.387	Transfer Loss: 0.68585	Fisher Loss: 0.033	EM Loss: 0.000	Source Domain Accuracy: 76.37%    Target Domain Accuracy: 74.54%
+Epoch [58/200]	Time: 13.88 seconds	Total Loss: 1.090	Classifier Loss: 0.378	Transfer Loss: 0.67979	Fisher Loss: 0.033	EM Loss: 0.000	Source Domain Accuracy: 76.95%    Target Domain Accuracy: 74.54%
+Epoch [59/200]	Time: 12.82 seconds	Total Loss: 1.091	Classifier Loss: 0.377	Transfer Loss: 0.68115	Fisher Loss: 0.033	EM Loss: 0.000	Source Domain Accuracy: 77.02%    Target Domain Accuracy: 74.61%
+Epoch [60/200]	Time: 13.87 seconds	Total Loss: 1.089	Classifier Loss: 0.375	Transfer Loss: 0.68084	Fisher Loss: 0.033	EM Loss: 0.000	Source Domain Accuracy: 76.89%    Target Domain Accuracy: 73.89%
+Epoch [61/200]	Time: 12.83 seconds	Total Loss: 1.094	Classifier Loss: 0.376	Transfer Loss: 0.68569	Fisher Loss: 0.033	EM Loss: 0.000	Source Domain Accuracy: 78.39%    Target Domain Accuracy: 74.54%
+Epoch [62/200]	Time: 13.91 seconds	Total Loss: 1.086	Classifier Loss: 0.371	Transfer Loss: 0.68188	Fisher Loss: 0.033	EM Loss: 0.000	Source Domain Accuracy: 76.56%    Target Domain Accuracy: 74.41%
+Epoch [63/200]	Time: 13.90 seconds	Total Loss: 1.091	Classifier Loss: 0.375	Transfer Loss: 0.68305	Fisher Loss: 0.033	EM Loss: 0.000	Source Domain Accuracy: 77.73%    Target Domain Accuracy: 74.22%
+Epoch [64/200]	Time: 12.90 seconds	Total Loss: 1.094	Classifier Loss: 0.378	Transfer Loss: 0.68294	Fisher Loss: 0.033	EM Loss: 0.000	Source Domain Accuracy: 78.39%    Target Domain Accuracy: 74.74%
+Epoch [65/200]	Time: 13.90 seconds	Total Loss: 1.085	Classifier Loss: 0.370	Transfer Loss: 0.68262	Fisher Loss: 0.033	EM Loss: 0.000	Source Domain Accuracy: 77.08%    Target Domain Accuracy: 74.61%
+Epoch [66/200]	Time: 12.88 seconds	Total Loss: 1.090	Classifier Loss: 0.374	Transfer Loss: 0.68397	Fisher Loss: 0.033	EM Loss: 0.000	Source Domain Accuracy: 77.86%    Target Domain Accuracy: 74.87%
+triggered early stopping
+Saved model in: results/DeepMerge_net.pt
+-------------------------------------------------
+Validating model...
+Source domain results:
+Accuracy: 77.34%    Balanced Accuracy: 77.51%    Precision: 81.50    Recall: 0.76    F1: 0.79    Brier_score: 0.23    AU: 85.23%
+Target domain results:
+Accuracy: 74.87%    Balanced Accuracy: 75.06%    Precision: 79.37    Recall: 0.73    F1: 0.76    Brier_score: 0.25    AU: 82.50%

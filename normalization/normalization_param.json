@@ -1,0 +1,5 @@
+{
+	"directory": "/../data/",
+	"source": "SimSim_SOURCE_X_Illustris2_pristine.npy",
+	"target": "SimSim_TARGET_X_Illustris2_noisy.npy"
+}

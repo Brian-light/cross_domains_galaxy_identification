@@ -1,0 +1,32 @@
+Training mode: MMD only
+Training model...
+Epoch [1/200]	Time: 4.31 seconds	Total Loss: 6.325	Classifier Loss: 1.545	Transfer Loss: 4.780	Souce Domain Accuracy: 50.00%    Target Domain Accuracy: 51.37%
+Epoch [2/200]	Time: 2.11 seconds	Total Loss: 2.313	Classifier Loss: 0.810	Transfer Loss: 1.503	Souce Domain Accuracy: 51.17%    Target Domain Accuracy: 57.03%
+Epoch [3/200]	Time: 2.11 seconds	Total Loss: 1.617	Classifier Loss: 0.753	Transfer Loss: 0.864	Souce Domain Accuracy: 52.34%    Target Domain Accuracy: 56.05%
+Epoch [4/200]	Time: 2.12 seconds	Total Loss: 1.430	Classifier Loss: 0.729	Transfer Loss: 0.701	Souce Domain Accuracy: 53.71%    Target Domain Accuracy: 53.12%
+Epoch [5/200]	Time: 2.13 seconds	Total Loss: 1.320	Classifier Loss: 0.712	Transfer Loss: 0.607	Souce Domain Accuracy: 53.52%    Target Domain Accuracy: 54.30%
+Epoch [6/200]	Time: 2.12 seconds	Total Loss: 1.224	Classifier Loss: 0.697	Transfer Loss: 0.527	Souce Domain Accuracy: 55.08%    Target Domain Accuracy: 47.27%
+Epoch [7/200]	Time: 2.12 seconds	Total Loss: 1.175	Classifier Loss: 0.697	Transfer Loss: 0.478	Souce Domain Accuracy: 55.47%    Target Domain Accuracy: 52.93%
+Epoch [8/200]	Time: 2.13 seconds	Total Loss: 1.127	Classifier Loss: 0.686	Transfer Loss: 0.441	Souce Domain Accuracy: 52.34%    Target Domain Accuracy: 52.54%
+Epoch [9/200]	Time: 2.13 seconds	Total Loss: 1.085	Classifier Loss: 0.686	Transfer Loss: 0.399	Souce Domain Accuracy: 52.34%    Target Domain Accuracy: 54.88%
+Epoch [10/200]	Time: 2.14 seconds	Total Loss: 1.051	Classifier Loss: 0.684	Transfer Loss: 0.367	Souce Domain Accuracy: 55.08%    Target Domain Accuracy: 49.41%
+Epoch [11/200]	Time: 2.13 seconds	Total Loss: 1.041	Classifier Loss: 0.681	Transfer Loss: 0.360	Souce Domain Accuracy: 54.10%    Target Domain Accuracy: 48.24%
+Epoch [12/200]	Time: 2.12 seconds	Total Loss: 1.015	Classifier Loss: 0.680	Transfer Loss: 0.335	Souce Domain Accuracy: 54.69%    Target Domain Accuracy: 48.44%
+Epoch [13/200]	Time: 2.13 seconds	Total Loss: 1.016	Classifier Loss: 0.679	Transfer Loss: 0.338	Souce Domain Accuracy: 52.34%    Target Domain Accuracy: 49.41%
+Epoch [14/200]	Time: 2.14 seconds	Total Loss: 1.021	Classifier Loss: 0.679	Transfer Loss: 0.342	Souce Domain Accuracy: 52.34%    Target Domain Accuracy: 53.12%
+Epoch [15/200]	Time: 2.14 seconds	Total Loss: 1.015	Classifier Loss: 0.676	Transfer Loss: 0.338	Souce Domain Accuracy: 53.91%    Target Domain Accuracy: 53.71%
+Epoch [16/200]	Time: 2.13 seconds	Total Loss: 0.996	Classifier Loss: 0.673	Transfer Loss: 0.323	Souce Domain Accuracy: 55.27%    Target Domain Accuracy: 51.56%
+Epoch [17/200]	Time: 2.13 seconds	Total Loss: 0.997	Classifier Loss: 0.672	Transfer Loss: 0.325	Souce Domain Accuracy: 54.69%    Target Domain Accuracy: 53.71%
+Epoch [18/200]	Time: 2.12 seconds	Total Loss: 1.010	Classifier Loss: 0.670	Transfer Loss: 0.341	Souce Domain Accuracy: 52.54%    Target Domain Accuracy: 50.59%
+Epoch [19/200]	Time: 2.13 seconds	Total Loss: 0.996	Classifier Loss: 0.672	Transfer Loss: 0.324	Souce Domain Accuracy: 53.91%    Target Domain Accuracy: 55.66%
+Epoch [20/200]	Time: 2.29 seconds	Total Loss: 0.970	Classifier Loss: 0.670	Transfer Loss: 0.300	Souce Domain Accuracy: 53.52%    Target Domain Accuracy: 54.69%
+Epoch [21/200]	Time: 2.51 seconds	Total Loss: 0.990	Classifier Loss: 0.667	Transfer Loss: 0.323	Souce Domain Accuracy: 57.03%    Target Domain Accuracy: 55.08%
+Epoch [22/200]	Time: 2.25 seconds	Total Loss: 0.977	Classifier Loss: 0.666	Transfer Loss: 0.311	Souce Domain Accuracy: 53.91%    Target Domain Accuracy: 55.27%
+triggered early stopping
+Saved model in: /content/PHYS449GroupProject/results/transfer_learning_MMD/DeepMerge_net.pt
+-------------------------------------------------
+Validating model...
+Source domain results:
+Accuracy: 54.17%    Balanced Accuracy: 53.23%    Precision: 0.53    Recall: 0.34    F1: 0.41    Brier_score: 0.46    AUC: 0.53
+Target domain results:
+Accuracy: 59.03%    Balanced Accuracy: 59.57%    Precision: 0.55    Recall: 0.71    F1: 0.62    Brier_score: 0.41    AUC: 0.62

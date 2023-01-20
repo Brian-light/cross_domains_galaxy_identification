@@ -1,0 +1,26 @@
+{
+	"data":{
+		"data directory": "/../data/",
+		"seed data split": 1,
+		"training ratio": 0.7,
+		"valid ratio": 0.1,
+		"testing ratio": 0.2,
+		"sim_sim_src_x_file": "SimSim_SOURCE_X_Illustris2_pristine_normalized.npy",
+		"sim_sim_src_y_file": "SimSim_SOURCE_y_Illustris2_pristine.npy",
+		"sim_sim_tar_x_file": "SimSim_TARGET_X_Illustris2_noisy_normalized.npy",
+		"sim_sim_tar_y_file": "SimSim_TARGET_y_Illustris2_noisy.npy",
+		"sim_real_src_x_file": "SimReal_SOURCE_X_Illustris0.npy",
+		"sim_real_src_y_file": "SimReal_SOURCE_y_Illustris0.npy",
+		"sim_real_tar_x_file": "SimReal_TARGET_X_postmergers_SDSS.npy",
+		"sim_real_tar_y_file": "SimReal_TARGET_y_postmergers_SDSS.npy",
+		"use_real_dataset": true,
+		"batch_size": 128,
+		"do_transfer_model": true,
+		"transfer_model": "/../results/MMD_sim/DeepMerge_net.pt"
+	},
+	"exec":{
+		"num_epochs": 200,
+		"mode": 0,
+		"use_scheduler": false
+	}
+}

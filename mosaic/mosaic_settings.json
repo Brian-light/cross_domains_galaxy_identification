@@ -1,0 +1,9 @@
+{
+	"data_path": "G:/school/Uni 4A/PHYS 449 - Intro to Machine Learning/Project/data/",
+	"dataset": 3,
+	"grid_width": 5,
+	"grid_height": 1,
+	"start_index": 13200,
+	"log_scale": false,
+	"out_path": "figure.png"
+}

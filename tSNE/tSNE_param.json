@@ -1,0 +1,17 @@
+{
+	"model": "G:/repo/PHYS449GroupProject/MMD/results_sim-real_mmd/DeepMerge_net.pt",
+	"data_path": "G:/school/Uni 4A/PHYS 449 - Intro to Machine Learning/Project/data/",
+	"sim_sim_src_x_file": "SimSim_SOURCE_X_Illustris2_pristine.npy",
+	"sim_sim_src_y_file": "SimSim_SOURCE_y_Illustris2_pristine.npy",
+	"sim_sim_tar_x_file": "SimSim_TARGET_X_Illustris2_noisy.npy",
+	"sim_sim_tar_y_file": "SimSim_TARGET_y_Illustris2_noisy.npy",
+	"sim_real_src_x_file": "SimReal_SOURCE_X_Illustris0.npy",
+	"sim_real_src_y_file": "SimReal_SOURCE_y_Illustris0.npy",
+	"sim_real_tar_x_file": "SimReal_TARGET_x_postmergers_SDSS.npy",
+	"sim_real_tar_y_file": "SimReal_TARGET_y_postmergers_SDSS.npy",
+	"use_real_dataset": false,
+	"batch_size": 128,
+	"num_samples": 2000,
+	"is_adversarial": false,
+	"out_directory": "./"
+}
